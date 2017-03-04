@@ -1,0 +1,9 @@
+Lista el número de partidos que aparecen en el escrutinio.
+
+Muestra el nombre da cada partido y el número de electos de cada uno.
+
+Pide el nombre de un partido y muestra sus datos:nombre, número de electos, ide de partido.
+
+Pide el número de electos y te muestra si hay, los partidos que tienen ese número.
+
+Muestra la información de forma gráfica ,además de mostrar datos generales sobre las elecciones, votos totales, votos en blanco.
